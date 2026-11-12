@@ -1,0 +1,20 @@
+{
+ "repo": "/Users/clawdbot/research/openlive",
+ "head": "65f2420e2017e24b36f3bf3989f8a7b369e37424",
+ "tracked": 943,
+ "code_files": 791,
+ "nodes": 5364,
+ "edges": 7758,
+ "communities": 634,
+ "errors": [],
+ "per_ext": {
+  ".cjs": 43,
+  ".ts": 552,
+  ".mjs": 10,
+  ".tsx": 111,
+  ".rs": 72,
+  ".js": 1,
+  ".mts": 2
+ },
+ "seconds": 4
+}
